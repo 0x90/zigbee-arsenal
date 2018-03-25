@@ -1,0 +1,9 @@
+[submodule "killerbee"]
+	path = killerbee
+	url = https://github.com/riverloopsec/killerbee
+[submodule "beekeeperwids"]
+	path = beekeeperwids
+	url = https://github.com/riverloopsec/beekeeperwids
+[submodule "apimote"]
+	path = apimote
+	url = https://github.com/riverloopsec/apimote
